@@ -1,4 +1,4 @@
-# PROJECT-LUXURIOUS-HOTEL-BOOKINGS-
+# PROJECT-LUXURIOUS-HOTEL-BOOKINGS- 
 
 A web-based hotel booking system designed to provide a seamless and luxurious booking experience for users. This project leverages **HTML** and **CSS** for the frontend, and **MySQL** for the backend database.
 
