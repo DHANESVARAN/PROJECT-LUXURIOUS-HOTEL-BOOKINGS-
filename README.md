@@ -63,4 +63,8 @@ This project is open-source and available for Everyone.
 
 ## Contact
 
-For any questions or feedback, please open an issue or contact the repository owner.
+For any questions or feedback, please open an issue or contact the repository owner.    
+📧 **Owner:** DHANESVARAN M  
+✉️ **Email:** dhanesvarankumaran2006@gmail.com  
+🔗 **GitHub:** [DHANESVARAN M](https://github.com/DHANESVARAN)  
+🔗 **LinkedIn:** [DHANESVARAN M](https://www.linkedin.com/in/dhanesvaran-m-774ab426b/)
